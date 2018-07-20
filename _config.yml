@@ -5,7 +5,7 @@
 
 # Site
 title: Dhulya cha Sulya
-subtitle: धुळ्याचा सुल्या , Suhas's blog
+subtitle: Suhas's blog
 description:
 author: Suhas Desale
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -345,8 +345,8 @@ post_copyright:
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: true
-  image: /assets/images/logo.png
+  enabled: false
+  image: 
 
 # Code Highlight theme
 # Available value:
