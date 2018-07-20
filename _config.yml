@@ -346,8 +346,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image: /assets/images/Logo%20concept%203.png
-
+  image: 
 
 # Code Highlight theme
 # Available value:
