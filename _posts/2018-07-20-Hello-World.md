@@ -6,6 +6,7 @@ publish: true
 
  Hello world this is my first Blog.
  
+<!-- more --> 
 # Kolhapur	
 	
 
