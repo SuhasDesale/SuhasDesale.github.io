@@ -2,15 +2,13 @@
 published: true
 publish: true
 ---
-# Hello world 
- 
-    Hello world this is my first Blog.
+# Hello world  
+
+ Hello world this is my first Blog.
  
 ## Film Making	
 	
-    
-    kjafslkdj ;f;sd;lfsd;'lf; jsddaflkasd
-    
+kjafslkdj ;f;sd;lfsd;'lf; jsddaflkas    
     
 ## Photography
 
