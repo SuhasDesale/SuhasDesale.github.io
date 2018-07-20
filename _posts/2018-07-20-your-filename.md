@@ -8,7 +8,8 @@ publish: true
  
 # Film Making	
 	
-kjafslkdj ;f;sd;lfsd;'lf; jsddaflkas  
+kjafslkdj ;f;sd;lfsd;'lf; jsddaflkas 
+
 {% for image in site.static_files %}
     {% if image.path contains 'images/kolhapur' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
