@@ -4,7 +4,11 @@ published: true
 ## Some unpublished work 
 
 ### Yellow
-![_68C3298.jpg]({{site.baseurl}}/_posts/_68C3298.jpg)
+![Yellow]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/_68C3298.jpg     )
 
 
 ### Sliver
+![Sliver]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/_68C2197.jpg     )
+
+### Dusk
+![Dusk]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/_68C2363.jpg     )
