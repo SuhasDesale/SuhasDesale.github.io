@@ -4,7 +4,9 @@ published: true
 ## Some unpublished work 
 
 ### Yellow
-![Yellow]({{site.baseurl}}/_posts/_68C3298.jpg)
+![]({{site.baseurl}}/_posts/_68C3298.jpg)
 
 ### Sliver
-![Sliver]({{site.baseurl}}/_posts/_68C2197.jpg)
+![]({{site.baseurl}}/_posts/_68C2197.jpg)
+
+![]({{site.baseurl}}/)
