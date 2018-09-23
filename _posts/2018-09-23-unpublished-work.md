@@ -12,3 +12,9 @@ published: true
 
 ### Dusk
 ![Dusk]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/_68C2363.jpg     )
+
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/images/24sep' %}
+![]({{ image.path }})
+ {% endif %}
+{% endfor %}
