@@ -1,12 +1,14 @@
 ---
-published: true
+published: false
 ---
 ## Some unpublished work 
 
 ### Yellow
-![Yellow]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/_68C3298.jpg     )
+![Yellow](/assets/images/24Sep/_68C3298.jpg)
+![website desigen.png]({{site.baseurl}}/_posts/website desigen.png)
+
+
 
 
 ### Sliver
-![Sliver]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/_68C2197.jpg     )
-
+![Sliver](/assets/images/24Sep/_68C2197.jpg)
