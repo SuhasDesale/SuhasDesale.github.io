@@ -4,8 +4,8 @@ published: true
 ## Some unpublished work 
 
 ### Yellow
-![Yellow](/assets/images/24Sep/_68C3298.jpg)
-![website desigen.png]({{site.baseurl}}/_posts/website desigen.png)
+![Yellow](/assets/images/24Sep/68C3298.jpg)
+
 
 
 
