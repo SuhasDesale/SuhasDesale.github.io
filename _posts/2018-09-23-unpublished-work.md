@@ -14,4 +14,4 @@ Some unpublished work
 
 
 ### Dusk
-![Dusk]({{site.baseurl}}/       SuhasDesale.github.io/assets/images/24Sep/68C2363.jpg     )
+![Dusk](/assets/images/24Sep/68C2363.jpg)
