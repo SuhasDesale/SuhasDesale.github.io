@@ -11,4 +11,4 @@ published: true
 
 
 ### Sliver
-![Sliver](/assets/images/24Sep/_68C2197.jpg)
+![Sliver](/assets/images/24Sep/68C2197.jpg)
