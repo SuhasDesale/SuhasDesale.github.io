@@ -14,4 +14,4 @@ Around 45 mins later
 +15 min
 ![](/assets/images/horse and a sheep/u68C0081.jpg)
 
-In the end we greeted and left 
+In the end we waved goodbye and left.
