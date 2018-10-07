@@ -1,12 +1,12 @@
 ---
 published: true
 ---
-Takes time to notice them. 
-###1.
+Takes some time to notice them. 
+### 1.
 ![](/assets/images/horse and a sheep/u68C9706.jpg)
 
 <!-- more --> 
-###2.
+###  2.
 Around 45 mins later
 ![](/assets/images/horse and a sheep/u68C0435.jpg)
 
@@ -14,4 +14,4 @@ Around 45 mins later
 +15 min
 ![](/assets/images/horse and a sheep/u68C0081.jpg)
 
-In the end we greeted and left
+
