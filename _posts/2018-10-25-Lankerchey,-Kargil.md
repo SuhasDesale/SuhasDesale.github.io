@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### GCNP
 ![](/assets/images/Kargil/1.jpg) 
