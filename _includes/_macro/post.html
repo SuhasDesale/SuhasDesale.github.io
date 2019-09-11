@@ -20,7 +20,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="{{ site.title }} Happy">
+      <meta itemprop="name" content="{{ site.title }}">
     </span>
 
     {% unless headlessPost %}
@@ -256,7 +256,7 @@
       </header>
     {% endunless %}
 
-    <div class="post-body{% if site.han %} han-init-context{% endif %}" itemprop="articleBody">
+    <div class="post-body{% if site.han %} han-init-context{% endif %}" itemprop="articleBody Happy">
 
       {% comment %} Gallery support {% endcomment %}
       {% if post.photos and post.photos.size > 0 %}
