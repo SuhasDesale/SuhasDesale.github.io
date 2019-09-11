@@ -292,7 +292,10 @@
           <!--/noindex-->
         {% elsif post.excerpt  %}
           <!--postexcerpt-->
+          <a href="{{ post.url | relative_url }}#more" >
+          
           {% include _macro/post-excerpt.html %}
+          </a> 
           <!--noindex-->
           <div class="post-button text-center happpy">
             <a class="btn" href="{{ post.url | relative_url }}{% if site.scroll_to_more %}#{{ __.post.more }}{% endif %}" rel="contents">
